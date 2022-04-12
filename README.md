@@ -1,4 +1,5 @@
-Notice 
+Notice
+
 
 Original Folder/More Info 👇👇👇
 
@@ -9,11 +10,14 @@ As of March 10, 2022
 What Putin is Doing
 
 
-Final Answer 
+Final Answer
 
-References 
 
-Art of War Quotes 
+References
+
+
+Art of War Quotes
+
 
 As of March 12, 2022
 
@@ -21,9 +25,11 @@ As of March 12, 2022
 As of March 14, 2022
 
 
-Part 2 
+Part 2
 
-Part 3 
+
+Part 3
+
 
 What their tunnel in my house sounds like
 
@@ -43,7 +49,8 @@ Twitter Observation
 Oddity at Doctors Office the Other Day
 
 
-How would you feel 
+How would you feel
+
 
 As of March 20, 2022
 
@@ -57,7 +64,8 @@ As of March 21, 2022
 Potential Russian Mafia “Signals”
 
 
-Water Tampering 
+Water Tampering
+
 
 More on the Microchips
 
@@ -68,11 +76,14 @@ My superpower💪 === Ability to see through people 👓
 As of March 22, 2022
 
 
-Status Update 
+Status Update
 
-Hacker People 
 
-My Brother 
+Hacker People
+
+
+My Brother
+
 
 As of March 24, 2022
 
@@ -86,11 +97,23 @@ Russia is Root of ALL Our Problems
 As of March 26, 2022
 
 
-Gangstalking 
+Gangstalking
 
-If It Helps 
 
-I’m Out of Time 
+If It Helps
+
+
+As of March 28, 2022
+
+
+I’m Now Out of Time
+
+
+As of March 30, 2022
+
+
+Be on the lookout for possible Russian EMF satellite targeting US
+
 
 
 Notice
@@ -2563,9 +2586,9 @@ United States
 https://maps.apple.com/?address=1235%20Smithfield%20Canyon%20Rd,%20Smithfield,%20UT%20%2084335,%20United%20States≪=41.848250,-111.806250&q=1235%20Smithfield%20Canyon%20Rd&\_ext=EiYpwH+pRgDsREAxozWkZPzzW8A5PlXPoibtREBBuXw80DbzW8BQAw%3D%3D&t=m
 
 
-They have no other real good way to emf me here so I’m assuming they are
-using a Russian satellite to do it just now. I’ll be here the rest of today
-and part of tomorrow.
+They have no other real good way to emf me here really so I’m assuming they
+could be using a Russian satellite to do it just now. I’ll be here the rest
+of today and part of tomorrow.
 
 This is how I think they must have busted them the first time cuz I
 remember seeing a black hawk helicopter fly over my house when they were
@@ -2612,10 +2635,11 @@ damn things—I assure you. There’s no real good way of getting them out once
 they are in you either. Speaking of that, I’ve been meaning to get you the
 nurse's name who did this to me. I’ll get you those records soon...
 
-I aim to bring every single one of these guys down—my brother especially.
-This whole Ukraine ordeal has only helped in making that actually
-plausible. Thank you Ukraine for your help, I’m sorry Russia dragged you
-into this too.. I feel for you. Together we will make it through.
+I aim to bring every single one of these guys to justice—my brother
+especially. This whole Ukraine ordeal has only helped in making that
+actually plausible. Thank you Ukraine for your help, I’m sorry Russia
+dragged you into this too.. I feel for you. Together we will make it
+through.
 
 I think I need a shield you guys. An ef/rf/emf shield. Kinda like my
 infrasound jammer but an electromagnetic field jammer—an all in one device.
@@ -2653,6 +2677,7 @@ necklace/dog tag since as a result. ;) (it doubles as a way to throw off
 some of their targeting of my head with electricity whereas it’s made of
 metal)
 
+
 P.s. If anybody asks—anonymous has no ties to the us government. Putin is
 trying to blame the anonymous hacks on the us government. He’s even setting
 them up to frame them for killing Russian citizens. This is what Russia
@@ -2660,52 +2685,41 @@ does regularly. Regardless, it’s essential to keep the ambiguity between
 anonymous and the US government. To be clear, I don’t even know whether
 anonymous really does have ties or not to the US government—I just know how
 the game is played so to speak just from me watching how Russia does
-it—that’s all. Plus I can see Russia is setting up the ground work in
-various forums, social media sites, etc—to both make that link and to frame
-anonymous for doing horrendous things. I personally think anonymous and the
-US government should have at least loose ties—for dicey situations just
-like this—but if so—never admit it. The whole reason it works for Russia is
-because they never admit it—even tho we all know their hackers really do
-have ties to the Russian government—literally everyone in Russia will
-become a Russian agent if their government so chooses it will help
-Russia—Russia monitors everything after all. Russia is now trying to do
-what I said recently which is to hold all parties accountable when any
-singular party does something “wrong”. And they are putting in the ground
-work to be able to do so successfully. (Via their planting such ideas that
-anonymous and our government are one in the same in our information
-ecosystem, aka using communications warfare) So it’s important we counter
-that notion at this time anyway. There is seriously something up with
-Russia and our hackers like I said. They could be banking on this link they
-are setting up between anonymous and the US government. To be clear, I’m
-not even a member of anonymous. I made a video just for fun but anyone can
-do that and plus I never promoted it. In reality, my scope of anonymous
-consists of me just reaching out to them and giving them my opinion on
-various subjects, similar to what I did with our government once my bro
-started trying to kill me. Like that doesn’t make me an anonymous member or
-a US agent. Plus neither ever even actually talks back to me. Anyways, my
-bro must actually be pretty high up in the kremlin tbh cuz it’s as if they
-are trying to use ME and this very document to start a war in a way. It’s
-as if their whole ordeal has a “brothers” “theme” to it—as well as a
-“hacking theme” to it on multiple levels. And I don’t want them to use me
-to start a war—not unless any war is on our country’s own terms. This shit
-is scary you guys, not going to lie.
+it—that’s all. The whole reason it works for Russia is because they never
+admit it—even tho we all know their hackers really do have ties to the
+Russian government—literally everyone in Russia will become a Russian agent
+if their government so chooses it will help Russia—Russia monitors
+everything after all. Plus I can see Russia is setting up the ground work
+in various forums, social media sites, etc—to both make that link and to
+frame anonymous for doing horrendous things. I personally think anonymous
+and the US government should have at least loose ties—for dicey situations
+just like this—but if so—never admit it. Russia is now trying to do what I
+said recently which is to hold all parties accountable when any singular
+party does something “wrong”. And they are putting in the ground work to be
+able to do so successfully. (Via their planting such ideas that anonymous
+and our government are one in the same in our information ecosystem, aka
+using communications warfare) So it’s important we counter that notion at
+this time anyway. There is seriously something up with Russia and our
+hackers like I said. They could be banking on this link they are setting up
+between anonymous and the US government. To be clear, I’m not even a member
+of anonymous. I made a video just for fun but anyone can do that and plus I
+never promoted it. In reality, my scope of anonymous consists of me just
+reaching out to them and giving them my opinion on various subjects, asking
+for help, similar to what I did with our government once my bro started
+trying to kill me. Like that doesn’t make me an anonymous member or a US
+agent. Plus neither ever even actually talks back to me. Anyways, my bro
+must actually be pretty high up in the kremlin tbh cuz it’s as if they are
+trying to use ME and this very document to start a war in a way. My bro
+seems to have access to some high level stuff. Plus, it’s as if Russia’s
+whole ordeal has a “brothers” “theme” to it—as well as a “hacking theme” to
+it–on multiple levels. Nevertheless, I don’t want them to use me to start a
+war—not unless any war is on our country’s own terms. This shit is scary
+you guys, not going to lie.
 
-I can now see why joe biden is so reserved. I think it’s called “game
+I can now see why Joe Biden is so reserved. I think it’s called “game
 theory”. Essentially it’s crucial you are not seen as the country who
 starts any war pretty much. There really is some high tech communications
 warfare going on right now as we speak—with the end game being full blown
-cyber war at the very least. Russia is essentially “using” anonymous in a
-way to try and kick off a cyber war in my opinion. And Russia will happily
-kill its own people for that cause.
-
-
-
-
--- 
-
-Chase Gibbons  / Manager
-435-999-4722
-
-
-PO Box 747Logan, UT 84321
-gfic.io  
+cyber war at the very least from what I gather. Russia is essentially
+“using” anonymous in a way to try and kick off a cyber war in my opinion.
+And Russia will happily kill its own people for that cause.
