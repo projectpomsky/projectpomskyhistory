@@ -45,7 +45,7 @@ from commit import commit
 
 est = pytz.timezone('America/Denver')
 
-# If modifying these scopes, delete the file token.json.
+# If modifying these scopes, delete the file credentials.json.
 SCOPES = ['https://www.googleapis.com/auth/gmail.readonly']
 bodies = []
 
@@ -59,7 +59,7 @@ def main():
     Lists the user's Gmail labels.
     """
     creds = None
-    # The file token.json stores the user's access and refresh tokens, and is
+    # The file credentials.json stores the user's access and refresh tokens, and is
     # created automatically when the authorization flow completes for the first
     # time.
     if os.path.exists('token.json'):
@@ -239,15 +239,18 @@ def parse_parts(service, subject, parts, folder_name, filename, message, tag_nam
                         if "attachment" in part_header_value:
                             # we get the attachment ID
                             # and make another request to get the attachment itself
-                            print("Saving the file:", part.get("filename"), "size:", get_size_format(file_size))
-                            attachment_id = body.get("attachmentId")
-                            attachment = service.users().messages() \
-                                        .attachments().get(id=attachment_id, userId='me', messageId=message['id']).execute()
-                            data = attachment.get("data")
-                            filepath = os.path.join(folder_name, filename + '__Attachment__' + part.get("filename"))
-                            if data:
-                                with open(filepath, "wb") as f:
-                                    f.write(base64.urlsafe_b64decode(data))
+                            try:
+                                print("Saving the file:", part.get("filename"), "size:", get_size_format(file_size))
+                                attachment_id = body.get("attachmentId")
+                                attachment = service.users().messages() \
+                                            .attachments().get(id=attachment_id, userId='me', messageId=message['id']).execute()
+                                data = attachment.get("data")
+                                filepath = os.path.join(folder_name, filename + '__Attachment__' + part.get("filename"))
+                                if data:
+                                    with open(filepath, "wb") as f:
+                                        f.write(base64.urlsafe_b64decode(data))
+                            except Exception as e:
+                                pass
 
     return all_parts_bodies
 
