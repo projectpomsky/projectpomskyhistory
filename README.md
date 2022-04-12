@@ -11696,6 +11696,7 @@ seriously. Regardless–from now on we need to keep hacking Russia and other
 adversaries ourselves either way. Worst case we’ll just come across some of
 their secret weapons and we will be better for it.
 
+
 That my friends, is what it is like to be gangstalked and there is
 currently no way out. They microchipped me before it ever even officially
 started and the microchip is the whole reason I haven’t taken off and
@@ -11707,9 +11708,9 @@ well being even if it risks her own well being that’s forsure. Dusty is her
 freaking son after all, and she’s already lived a whole life whereas I
 haven’t. Like some people only care about themselves I swear. You would
 think she would realize I didn't do anything and I was friends with Dusty
-up until the point when he started coming after me so nothing she does or
-doesn't do is going to stop him from going after any of her other children
-or grandchild.
+up until the point when he started coming after me so nothing she doesn't
+do is going to stop him from going after herself, any of her other children
+or grandchildren–the only way to stop him is if others actually help.
 
 P.s. The hackers are the only ones who know literally everything–everyone
 else seems to only know their part in it and that seems deliberate. All you
